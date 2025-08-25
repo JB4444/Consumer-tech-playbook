@@ -65,3 +65,5 @@ Follow along:
 ---
 
 Built for makers, students, and engineers who want to **design the next generation of consumer tech.**
+
+Want the full vault of ME/EE/FW projects that build a job-ready portfolio? → [Join here].
