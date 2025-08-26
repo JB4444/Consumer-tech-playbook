@@ -11,7 +11,7 @@ Each track (ME, EE, FW) has two parts:
 - CAD with SolidWorks  
 - 3D printing + manufacturing design  
 - Simulation & tolerance analysis  
-👉 [Explore the ME Track](ME.md)
+👉 [Explore the ME Track](ME/Readme.md)
 
 ---
 
@@ -19,7 +19,7 @@ Each track (ME, EE, FW) has two parts:
 - Circuit design fundamentals  
 - Schematic + PCB layout in Altium  
 - Debugging with multimeter & oscilloscope  
-👉 [Explore the EE Track](EE.md)
+👉 [Explore the EE Track](EE/Readme.md)
 
 ---
 
@@ -27,7 +27,7 @@ Each track (ME, EE, FW) has two parts:
 - Arduino fundamentals → embedded C  
 - Communication protocols (UART, I2C, SPI)  
 - Real-world consumer device firmware  
-👉 [Explore the FW Track](FW.md)
+👉 [Explore the FW Track](FW/Readme.md)
 
 ---
 
